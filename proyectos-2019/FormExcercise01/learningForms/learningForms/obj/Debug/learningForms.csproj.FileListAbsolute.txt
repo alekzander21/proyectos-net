@@ -1,0 +1,10 @@
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\bin\Debug\learningForms.exe.config
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\bin\Debug\learningForms.exe
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\bin\Debug\learningForms.pdb
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.Form1.resources
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.Properties.Resources.resources
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.exe
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise01\learningForms\learningForms\obj\Debug\learningForms.pdb

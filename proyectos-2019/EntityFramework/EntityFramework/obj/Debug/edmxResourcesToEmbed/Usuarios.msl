@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRUD_CSHARPModelStoreContainer" CdmEntityContainer="CRUD_CSHARPEntities">
+    <EntitySetMapping Name="Usuarios">
+      <EntityTypeMapping TypeName="CRUD_CSHARPModel.Usuarios">
+        <MappingFragment StoreEntitySet="Usuarios">
+          <ScalarProperty Name="id_usuarios" ColumnName="id_usuarios" />
+          <ScalarProperty Name="name_usuarios" ColumnName="name_usuarios" />
+          <ScalarProperty Name="apellido_usuarios" ColumnName="apellido_usuarios" />
+          <ScalarProperty Name="correo_usuarios" ColumnName="correo_usuarios" />
+          <ScalarProperty Name="telefono_usuarios" ColumnName="telefono_usuarios" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

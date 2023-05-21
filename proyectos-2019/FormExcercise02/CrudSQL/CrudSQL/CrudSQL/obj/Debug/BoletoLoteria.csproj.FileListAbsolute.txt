@@ -1,0 +1,15 @@
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\BoletoLoteria.exe.config
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\BoletoLoteria.exe
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\BoletoLoteria.pdb
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\EntityFramework.dll
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\EntityFramework.xml
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.csproj.AssemblyReference.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.Form1.resources
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.Properties.Resources.resources
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.csproj.GenerateResource.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.csproj.CopyComplete
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.exe
+C:\Users\Fabrizio\Desktop\Aprendizaje\AprendizajeC#\2019\proyectos-2019\FormExcercise02\loteryCuppon\BoletoLoteria\BoletoLoteria\obj\Debug\BoletoLoteria.pdb
